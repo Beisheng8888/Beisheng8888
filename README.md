@@ -6,9 +6,10 @@
 
 ## 常用工具
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 
 ## 今年汇总  ✨
+
+[![img](https://camo.githubusercontent.com/caedcda1d298243c09d376f91ac6792dedecffae625e781b06e491a179147dfa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7874656b6b79267468656d653d746f6b796f6e696768742673686f775f69636f6e733d74727565)](https://camo.githubusercontent.com/caedcda1d298243c09d376f91ac6792dedecffae625e781b06e491a179147dfa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7874656b6b79267468656d653d746f6b796f6e696768742673686f775f69636f6e733d74727565)
+
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Beisheng8888&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beisheng8888&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
