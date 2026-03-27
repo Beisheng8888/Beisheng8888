@@ -3,7 +3,8 @@
 
   <h1>Hi, I'm Beisheng</h1>
   <p><strong>偏后端的全栈开发者</strong></p>
-  <p>专注 Java + Vue 企业级应用落地，持续把复杂业务系统做成可运行、可维护、可迭代的产品。</p>
+  <p>Build practical systems with Java, Spring Boot and Vue.</p>
+  <p>我更关注系统是否稳定、边界是否清晰、代码是否经得起长期迭代。</p>
 
   <p>
     <a href="https://github.com/Beisheng8888">
@@ -16,38 +17,32 @@
 
 ## About Me
 
-- 主要围绕 `Java / Spring Boot / MyBatis / Vue / Element UI` 构建前后端分离系统。
-- 更偏后端，但不止写接口，也会处理前端页面、联调链路、构建发布和项目落地问题。
-- 长期关注复杂业务场景，比如权限体系、流程审批、定时任务、搜索能力、数据管理和系统治理。
-- 比起“会很多技术”，更在意一件事：把真实需求稳定交付出来。
+- 主要围绕 `Java / Spring Boot / MyBatis / Vue` 构建前后端分离应用。
+- 以后端为核心，也能处理前端实现、联调链路、构建发布和工程落地。
+- 更偏爱长期主义的开发方式，而不是只把功能堆到“能跑”为止。
+- 我希望自己写出来的系统，既能交付，也能维护，还能继续长出来。
 
-## Now Building
+## Current Focus
 
-一个面向科研管理与科技创新业务的一体化平台，覆盖项目管理、成果管理、KPI/考核、申报评审、工作流、专家管理、期刊数据和 AI 助手等场景。
-
-**Tech Stack**
-
-`Java 8` `Spring Boot 2.5` `Maven 多模块` `MyBatis-Plus` `Redis` `RabbitMQ` `Elasticsearch` `Flowable` `Quartz` `MySQL` `Vue 2` `Element UI`
-
-**What makes it interesting**
-
-- 不是单点功能，而是多业务模块协同的企业级平台。
-- 既有典型管理系统能力，也有工作流、搜索、消息、AI 集成等复杂场景。
-- 需要同时处理业务抽象、模块边界、接口联调和可维护性问题。
+- 复杂业务系统的模块设计与持续迭代
+- 后端服务、数据层和接口边界的稳定性建设
+- 前后端协作效率、联调体验和工程可维护性
+- 让代码从“可用”逐步走向“可靠”和“好接手”
 
 ## Tech Focus
 
 | Direction | Stack |
 | --- | --- |
-| Backend | `Java` `Spring Boot` `MyBatis` `Redis` `RabbitMQ` `Elasticsearch` `Flowable` `Quartz` |
-| Frontend | `Vue 2` `Element UI` `JavaScript` `Axios` `ECharts` `SCSS` |
-| Database & Infra | `MySQL` `Maven` `Linux` `Git` `RESTful API` |
+| Backend | `Java` `Spring Boot` `MyBatis` `Redis` `RabbitMQ` `Elasticsearch` |
+| Frontend | `Vue` `Element UI` `JavaScript` `Axios` `SCSS` |
+| Engineering | `MySQL` `Maven` `Git` `Linux` `RESTful API` |
 
-## What I Care About
+## Engineering Taste
 
-- 用清晰的模块边界承接复杂业务，而不是让代码跟着需求一起失控。
-- 在真实项目里平衡交付速度、可维护性和后续扩展空间。
-- 让系统不仅“能跑起来”，也“方便定位、联调、迭代和接手”。
+- 清晰的边界，比堆叠更多框架更重要。
+- 稳定的交付，比一时的“写得快”更重要。
+- 可维护性不是锦上添花，而是系统寿命的一部分。
+- 我相信好的工程，不是炫技，而是让后来的人接得住。
 
 ## GitHub Snapshot
 
@@ -59,16 +54,16 @@
 ## Toolbelt
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,vue,js,html,css,git,linux,vscode,idea" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,vue,js,git,linux,idea" alt="Tech Stack Icons" />
 </div>
 
 ## Connect
 
 - GitHub: [@Beisheng8888](https://github.com/Beisheng8888)
-- 如果你也在做企业级系统、管理平台、流程类产品，欢迎交流。
+- 如果你也关注系统设计、工程质量和长期可维护性，欢迎交流。
 
 <div align="center">
-  <sub>Building practical systems, not just demos.</sub>
+  <sub>Build things that last.</sub>
 </div>
 
 <div align="center">
